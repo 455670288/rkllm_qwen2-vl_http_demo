@@ -1,5 +1,6 @@
 # Note:
 1.模型下载、转换、推理部署参照官方[rkllm-llm/examples](https://github.com/airockchip/rknn-llm/tree/main/examples/Qwen2-VL-2B_Demo)里的部署文档
+
 2.http服务搭建实现代码 ./deploy/src/main_openai_stream.cpp 支持流式输出、历史上下文、图文混合对话
 
 
